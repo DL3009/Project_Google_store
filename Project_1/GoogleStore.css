@@ -80,7 +80,7 @@ a {
     border-radius: 25px;
     padding: 20px;
     width: 1600px;
-    height: 1000px;
+    height: 700px;
     position: relative; left: 85px; top: 120px;
     z-index: 2;
 }
@@ -105,4 +105,603 @@ a {
     max-height: 700px;
     object-fit: cover;
     overflow: hidden;
+}
+.phones-explain {
+    width: 1320px;
+    height: 873px;
+    position: relative; left: 60px; top: 100px;
+    z-index: 2;
+    display: flex;
+}
+.pro-explain {
+    border-radius: 25px;
+    background-image: url('aragonai-9ac0c474-52dd-4c9b-8c65-3e44f40c549f.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 450px;
+    height: 800px;
+    position: relative; left: 60px; top: 85px;
+    z-index: 2;
+}
+.pixels-explain {
+    border-radius: 25px;
+    background-image: url('aragonai-f87f1445-25dd-4c69-9604-763e8e9f16a2.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 450px;
+    height: 800px;
+    position: relative; left: 180px; top: 85px;
+    z-index: 2;
+}
+.a-explain {
+    border-radius: 25px;
+    background-image: url('aragonai-3d5f0c0e-ed78-4b2a-b5a1-215909488d60.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 450px;
+    height: 800px;
+    position: relative; left: 300px; top: 85px;
+    z-index: 2;
+}
+.text-3-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 80px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-3-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 150px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-3-3 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 100px; left: 100px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-3-4 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 135px; left: 135px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-3-4:hover {
+    background-color: #D3D3D3;
+}
+.text-link-2 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.text-4-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 130px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-4-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 30px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-4-3 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 85px; left: 130px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-4-3:hover {
+    background-color: #D3D3D3;
+}
+.text-link-3 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.text-5-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 140px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-5-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 30px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-5-3 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 105px; left: 130px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-5-3:hover {
+    background-color: #D3D3D3;
+}
+.text-link-4 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.pro-fold-explanation {
+    border-radius: 25px;
+    background-image: url('aragonai-02527932-8490-4c55-809b-90b2d31c14bc.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1600px;
+    height: 800px;
+    position: relative; left: 60px; top: 200px;
+    z-index: 2;
+}
+.text-6-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 710px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-6-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 85px; left: 570px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-6-3 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 135px; left: 740px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-3-4:hover {
+    background-color: #D3D3D3;
+}
+.text-link-5 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.ac1-explain {
+    width: 1600px;
+    height: 873px;
+    position: relative; top: 100px;
+    z-index: 2;
+    display: flex;
+}
+.watch-explain {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 192512.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 750px;
+    height: 1200px;
+    position: relative; left: 60px; top: 250px;
+    z-index: 2;
+}
+.text-7-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 280px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-7-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 220px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-7-3 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 100px; left: 290px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-7-4 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 135px; left: 305px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-7-4:hover {
+    background-color: #D3D3D3;
+}
+.text-link-6 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.buds-explain {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 192546.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 750px;
+    height: 1200px;
+    position: relative; left: 110px; top: 250px;
+    z-index: 2;
+}
+.text-8-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 280px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-8-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 220px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-8-3 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 95px; left: 305px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-8-3:hover {
+    background-color: #D3D3D3;
+}
+.text-link-7 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.popular-categories {
+    border-radius: 25px;
+    padding: 20px;
+    width: 1600px;
+    height: 300px;
+    position: relative; left: 100px; top: 720px;
+    z-index: 2;
+}
+.text-9-1 {
+    font-size: 50px;
+    font-weight: 770;
+    color: #3C4043;
+    position: relative; top: 5px; left: 100px;
+    width: fit-content;
+}
+.item-2-1{
+    width: 250px;
+    max-height: 400px;
+    position: relative; top: 5px; left: 100px;
+}
+.item-2-2{
+    width: 250px;
+    max-height: 400px;
+    position: relative; top: 5px; left: 200px;
+}
+.item-2-3{
+    width: 250px;
+    max-height: 400px;
+    position: relative; top: 5px; left: 300px;
+}
+.item-2-4{
+    width: 250px;
+    max-height: 400px;
+    position: relative; top: 5px; left: 300px;
+}
+.ac2-explain {
+    width: 1500px;
+    height: 873px;
+    position: relative; left: 60px; top: 100px;
+    z-index: 2;
+    display: flex;
+}
+.nest-explain {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 192726.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 750px;
+    height: 850px;
+    position: relative; left: 50px; top: 700px;
+    z-index: 2;
+}
+.text-10-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 200px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-10-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 150px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-10-3 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 85px; left: 285px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-10-3:hover {
+    background-color: #D3D3D3;
+}
+.text-link-10 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.streamer-explain {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 192741.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 750px;
+    height: 850px;
+    position: relative; left: 80px; top: 700px;
+    z-index: 2;
+}
+.text-11-1 {
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 30px; left: 240px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-11-2 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 60px; left: 230px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-11-3 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 100px; left: 210px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-11-4 {
+    font-size: 40px;
+    font-weight: 500;
+    position: relative; top: 140px; left: 170px;
+    width: fit-content;
+    color: #3C4043;
+}
+.text-11-5 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 165px; left: 285px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-11-5:hover {
+    background-color: #D3D3D3;
+}
+.text-link-11 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.pixel {
+    border-radius: 25px;
+    padding: 20px;
+    width: 1600px;
+    height: 300px;
+    position: relative; left: 100px; top: 920px;
+    z-index: 2;
+}
+.text-12-1 {
+    font-size: 50px;
+    font-weight: 770;
+    color: #3C4043;
+    position: relative; top: 10px; left: 600px;
+    width: fit-content;
+}
+.item-3-1{
+    width: 450px;
+    max-height: 700px;
+    position: relative; top: 10px; left: 10px;
+}
+.item-3-2{
+    width: 450px;
+    max-height: 700px;
+    position: relative; top: 10px; left: 50px;
+}
+.item-3-3{
+    width: 450px;
+    max-height: 700px;
+    position: relative; top: 10px; left: 100px;
+}
+.drop-explanation {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 210225 (1).png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1600px;
+    height: 500px;
+    position: relative; left: 60px; top: 1350px;
+    z-index: 2;
+}
+.text-13-1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 335px; left: 365px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-13-1:hover {
+    background-color: #D3D3D3;
+}
+.text-link-13 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.switch-explanation {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 193520.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1600px;
+    height: 500px;
+    position: relative; left: 60px; top: 1450px;
+    z-index: 2;
+}
+.text-14-1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 280px; left: 225px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-14-1:hover {
+    background-color: #D3D3D3;
+}
+.text-link-14 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.wireless-explanation {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 193355.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1600px;
+    height: 800px;
+    position: relative; left: 60px; top: 1550px;
+    z-index: 2;
+}
+.text-15-1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 505px; left: 1190px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-15-1:hover {
+    background-color: #D3D3D3;
+}
+.text-link-15 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.ball-explanation {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 211515.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1600px;
+    height: 800px;
+    position: relative; left: 60px; top: 1650px;
+    z-index: 2;
+}
+.text-16-1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 435px; left: 225px;
+    width: fit-content;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-16-1:hover {
+    background-color: #D3D3D3;
+}
+.text-link-16 {
+    text-decoration: none; 
+    color: inherit;    
+    display: inline-block; 
+}
+.shop-explanation {
+    border-radius: 25px;
+    background-image: url('스크린샷 2025-06-15 193506.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 1500px;
+    height: 400px;
+    position: relative; left: 160px; top: 1750px;
+    z-index: 2;
+}
+.text-17-1 {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    position: relative; top: 280px; left: 680px;
+    width: fit-content;
+    color: #3C4043;
+    border: 2.5px solid #202124;
+    border-radius: 8px;
+}
+.text-17-1:hover {
+    background-color: #D3D3D3;
 }
