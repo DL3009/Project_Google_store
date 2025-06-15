@@ -1,4 +1,8 @@
 body { font-family: 'Roboto', sans-serif; color: #202124;}
+.scale-83 {
+  transform: scale(0.83);
+  transform-origin: top left;
+}
 .contain {
     display: flex; 
 }
@@ -15,11 +19,11 @@ body { font-family: 'Roboto', sans-serif; color: #202124;}
     font-size: 14px;
 }
 .container-head2 {
-    position: fixed; right: 45px; top:0px;
+    position: fixed; top: 0px;
     display: flex; 
     justify-content: right; 
     align-items: center;
-    width: 900px;
+    width: 1520px;
     height: 75px;
     z-index:9;
     background-color: white;
